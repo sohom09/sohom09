@@ -28,9 +28,9 @@ Here are some of my most active and valuable contributions:
 | ⭐ Repo Name                      | 📚 Domain                    |
 |----------------------------------|------------------------------|
 | [Linux-Essentials-for-Hackers](https://github.com/sohom09/Linux-Essentials-for-Hackers) | Linux & Cybersecurity         |
-| [DSA-Using-C](https://github.com/yourusername/DSA-USING-C)                                   | Data Structures & Algorithms |
-| [Python](https://github.com/yourusername/CODING-WITH-PYTHON)                                   | Python programming |
-| [JAVA](https://github.com/yourusername/JAVA-PROGRAMMING)                                   | Java Programming |
+| [DSA-Using-C](https://github.com/sohom09/DSA-USING-C)                                   | Data Structures & Algorithms |
+| [Python](https://github.com/sohom09/CODING-WITH-PYTHON)                                   | Python programming |
+| [JAVA](https://github.com/sohom09/JAVA-PROGRAMMING)                                   | Java Programming |
 
 ---
 
