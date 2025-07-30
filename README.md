@@ -55,7 +55,7 @@ A secure and responsive To-Do List Web Application built using PHP, MySQL, Boots
 ## 📫 Connect with Me
 
 - ✉️ Email: sohomchakraborty.tigps.2005@gmail.com
-- 🌐 GitHub: [sohomchakraborty](https://github.com/sohom09)
+- 🌐 GitHub: [sohom_chakraborty09](https://github.com/sohom09)
 
 ---
 
