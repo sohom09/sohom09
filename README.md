@@ -30,7 +30,7 @@ Here are some of my most active and valuable contributions:
 | [Linux-Essentials-for-Hackers](https://github.com/sohom09/Linux-Essentials-for-Hackers) | Linux & Cybersecurity         |
 | [DSA-Using-C](https://github.com/sohom09/DSA-USING-C)                                   | Data Structures & Algorithms |
 | [Python](https://github.com/sohom09/CODING-WITH-PYTHON)                                   | Python programming |
-| [JAVA](https://github.com/sohom09/JAVA-PROGRAMMING)                                   | Java Programming |
+| [☕Java Programming](https://github.com/sohom09/JAVA-PROGRAMMING)                                   | Java Programming |
 | [To-Do List PHP](https://github.com/sohom09/To-do-list-php)                                   | HTML,CSS,JS,PhP,MySQL|
 
 ---
