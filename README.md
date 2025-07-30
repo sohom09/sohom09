@@ -20,6 +20,18 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=sohom09&theme=dark&hide_border=true)
 
 ---
+
+## 🔝 Top Contributed Repositories
+
+Here are some of my most active and valuable contributions:
+
+| ⭐ Repo Name                      | 📚 Domain                    |
+|----------------------------------|------------------------------|
+| [Linux-Essentials-for-Hackers](https://github.com/sohom09/Linux-Essentials-for-Hackers) | Linux & Cybersecurity         |
+| [DSA-Using-C](https://github.com/yourusername/DSA-USING-C)                                   | Data Structures & Algorithms |
+| [Python](https://github.com/yourusername/CODING-WITH-PYTHON)                                   | Python programming |
+| [JAVA](https://github.com/yourusername/JAVA-PROGRAMMING)                                   | Java Programming |
+
 ---
 
 ## 🚀 Projects
