@@ -2,7 +2,7 @@
 
 
 # ✨ About Me:
-👋 Hi, I’m Sohom Chakraborty<br>👀 I’m interested in Cyber Security, Ethical Hacking, Animation and video editing, Mobile app development, AI and Networking<br>🌱 I’m currently learning BCA from Institute of Engineering and Management, Kolkata in 2nd year and has intermediate skills in C, HTML, Python, Java, C++, MYSql, CSS and Computer Architechture, DSA using C programming language<br>💞️ I’m looking forward to connect with people working on Programming and Cybersecurity projects<br>📫 How to reach me: By Email: sohomchakraborty.tigps.2005@gmail.com, By Social: Reddit, LinkedIn<br>😄 Pronouns: He/Him
+👋 Hi, I’m Sohom Chakraborty<br>👀 I’m interested in Cyber Security, Ethical Hacking, Animation and video editing, Mobile app development, AI and Networking<br>🌱 I’m currently learning BCA from Institute of Engineering and Management, Kolkata in 3rd year and has intermediate skills in C, HTML, Python, Java, C++, MYSql, CSS, Javascript and Computer Architechture, DSA using C programming language<br>💞️ I’m looking forward to connect with people working on Programming and Cybersecurity projects<br>📫 How to reach me: By Email: sohomchakraborty.tigps.2005@gmail.com, By Social: Reddit, LinkedIn<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
