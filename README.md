@@ -11,9 +11,44 @@
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TERMINAL](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows CMD](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Sohom Chakraborty's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohom09&theme=2077)
+## 📊 Sohom's Github Stats
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohom09&theme=2077)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohom09&theme=2077)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohom09&theme=2077)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sohom09&theme=dark&hide_border=true)
+
+---
+---
+
+## 🚀 Projects
+
+### 📌 [DSA-USING-C](https://github.com/sohom09/DSA-USING-C)
+📚 Contains my DSA notes and implementations in C language.  
+Useful for college assignments and competitive programming basics.
+
+### 📌 [Python](https://github.com/sohom09/CODING-WITH-PYTHON)
+🐍 My Python learning repository with notes and beginner-level projects for practice.
+
+### 📌 [JAVA](https://github.com/sohom09/JAVA-PROGRAMMING)
+This repository is a collection of my **Java programming notes and code examples**, covering topics from Java basics to object-oriented programming, collections, exception handling, and mini-projects.
+Ideal for students, beginners, and those revising core Java concepts.
+
+### 📌 [PHP](https://github.com/sohom09/To-do-list-php)
+A secure and responsive To-Do List Web Application built using PHP, MySQL, Bootstrap, JavaScript, HTML, and CSS. This project allows users to register, log in, reset their password, and manage personal to-dos — all from a modern and mobile-friendly UI.
+
+
+---
+## 📫 Connect with Me
+
+- ✉️ Email: sohomchakraborty.tigps.2005@gmail.com
+- 🌐 GitHub: [sohomchakraborty](https://github.com/sohom09)
+
+---
+
+_Thanks for visiting! ⭐ If you find my work useful, consider following me or giving a star to any repo!_
+
 
 
 
