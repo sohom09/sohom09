@@ -45,11 +45,11 @@ Useful for college assignments and competitive programming basics.
 🐍 My Python learning repository with notes and beginner-level projects for practice.
 
 ### 📌 [JAVA](https://github.com/sohom09/JAVA-PROGRAMMING)
-This repository is a collection of my **Java programming notes and code examples**, covering topics from Java basics to object-oriented programming, collections, exception handling, and mini-projects.
+☕This repository is a collection of my **Java programming notes and code examples**, covering topics from Java basics to object-oriented programming, collections, exception handling, and mini-projects.
 Ideal for students, beginners, and those revising core Java concepts.
 
 ### 📌 [PHP](https://github.com/sohom09/To-do-list-php)
-☕A secure and responsive To-Do List Web Application built using PHP, MySQL, Bootstrap, JavaScript, HTML, and CSS. This project allows users to register, log in, reset their password, and manage personal to-dos — all from a modern and mobile-friendly UI.
+A secure and responsive To-Do List Web Application built using PHP, MySQL, Bootstrap, JavaScript, HTML, and CSS. This project allows users to register, log in, reset their password, and manage personal to-dos — all from a modern and mobile-friendly UI.
 
 
 ---
